@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/particl/particl-bitcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Particl Message Verification and Signing for Particl",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "particl",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
