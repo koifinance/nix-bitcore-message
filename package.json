@@ -1,7 +1,7 @@
 {
-  "name": "particl-bitcore-message",
+  "name": "nix-bitcore-message",
   "version": "1.0.3",
-  "description": "Particl Messages for Bitcore",
+  "description": "NIX Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "particl",
+    "nix",
     "bitcore",
     "btc",
     "satoshi",
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/particl/particl-bitcore-message.git"
+    "url": "https://github.com/NixPlatform/nix-bitcore-message.git"
   },
   "dependencies": {
-    "particl-bitcore-lib": "git://github.com/particl/particl-bitcore-lib"
+    "nix-bitcore-lib": "git://github.com/NixPlatform/nix-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
